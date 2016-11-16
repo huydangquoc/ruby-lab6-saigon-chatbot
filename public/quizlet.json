@@ -1,0 +1,2246 @@
+{
+    "id": 44831586,
+    "url": "/44831586/vietnamese-flash-cards/",
+    "title": "Vietnamese",
+    "created_by": "tmaharaj",
+    "term_count": 316,
+    "created_date": 1403401977,
+    "modified_date": 1403402021,
+    "published_date": 1403401977,
+    "has_images": false,
+    "subjects": [],
+    "visibility": "public",
+    "editable": "only_me",
+    "has_access": true,
+    "can_edit": false,
+    "description": "Vietnamese based on Memrise Italian",
+    "lang_terms": "en",
+    "lang_definitions": "vi",
+    "password_use": 0,
+    "password_edit": 0,
+    "access_type": 2,
+    "creator_id": 7525501,
+    "creator": {
+        "username": "tmaharaj",
+        "account_type": "teacher",
+        "profile_image": "https://lh6.googleusercontent.com/-lGDNpfxG2bs/AAAAAAAAAAI/AAAAAAAAS_k/UA8QLRR3yTw/photo.jpg",
+        "id": 7525501
+    },
+    "class_ids": [
+        1307498
+    ],
+    "terms": [
+        {
+            "id": 1553132388,
+            "term": "Hello",
+            "definition": "xin ch\u00e0o",
+            "image": null,
+            "rank": 0
+        },
+        {
+            "id": 1553132389,
+            "term": "I would like to",
+            "definition": "T\u00f4i mu\u1ed1n",
+            "image": null,
+            "rank": 1
+        },
+        {
+            "id": 1553132390,
+            "term": "Coffee",
+            "definition": "C\u00e0 ph\u00ea",
+            "image": null,
+            "rank": 2
+        },
+        {
+            "id": 1553132391,
+            "term": "please",
+            "definition": "xin",
+            "image": null,
+            "rank": 3
+        },
+        {
+            "id": 1553132392,
+            "term": "I would like coffee, please",
+            "definition": "T\u00f4i mu\u1ed1n c\u00e0 ph\u00ea, xin vui l\u00f2ng",
+            "image": null,
+            "rank": 4
+        },
+        {
+            "id": 1553132393,
+            "term": "goodbye",
+            "definition": "ta\u0323m bi\u00ea\u0323t",
+            "image": null,
+            "rank": 5
+        },
+        {
+            "id": 1553132394,
+            "term": "yes",
+            "definition": "v\u00e2ng",
+            "image": null,
+            "rank": 6
+        },
+        {
+            "id": 1553132395,
+            "term": "no",
+            "definition": "kh\u00f4ng",
+            "image": null,
+            "rank": 7
+        },
+        {
+            "id": 1553132396,
+            "term": "thanks",
+            "definition": "nh\u1edd",
+            "image": null,
+            "rank": 8
+        },
+        {
+            "id": 1553132397,
+            "term": "wine",
+            "definition": "vang",
+            "image": null,
+            "rank": 9
+        },
+        {
+            "id": 1553132398,
+            "term": "I would like wine, please",
+            "definition": "T\u00f4i mu\u1ed1n r\u01b0\u1ee3u vang, xin vui l\u00f2ng",
+            "image": null,
+            "rank": 10
+        },
+        {
+            "id": 1553132399,
+            "term": "I",
+            "definition": "T\u00f4i",
+            "image": null,
+            "rank": 11
+        },
+        {
+            "id": 1553132400,
+            "term": "I can",
+            "definition": "T\u00f4i c\u00f3 th\u1ec3",
+            "image": null,
+            "rank": 12
+        },
+        {
+            "id": 1553132401,
+            "term": "I speak",
+            "definition": "T\u00f4i n\u00f3i",
+            "image": null,
+            "rank": 13
+        },
+        {
+            "id": 1553132402,
+            "term": "Italian",
+            "definition": "\u00dd",
+            "image": null,
+            "rank": 14
+        },
+        {
+            "id": 1553132403,
+            "term": "know how to speak Italian",
+            "definition": "bi\u1ebft l\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 n\u00f3i ti\u1ebfng \u00dd",
+            "image": null,
+            "rank": 15
+        },
+        {
+            "id": 1553132404,
+            "term": "a bit",
+            "definition": "m\u1ed9t ch\u00fat",
+            "image": null,
+            "rank": 16
+        },
+        {
+            "id": 1553132405,
+            "term": "you speak Italian?",
+            "definition": "b\u1ea1n n\u00f3i ti\u1ebfng \u00dd?",
+            "image": null,
+            "rank": 17
+        },
+        {
+            "id": 1553132406,
+            "term": "I can speak a little Italian",
+            "definition": "T\u00f4i c\u00f3 th\u1ec3 n\u00f3i m\u1ed9t ch\u00fat ti\u1ebfng \u00dd",
+            "image": null,
+            "rank": 18
+        },
+        {
+            "id": 1553132407,
+            "term": "English",
+            "definition": "Anh",
+            "image": null,
+            "rank": 19
+        },
+        {
+            "id": 1553132408,
+            "term": "you speak English?",
+            "definition": "b\u1ea1n n\u00f3i ti\u1ebfng Anh?",
+            "image": null,
+            "rank": 20
+        },
+        {
+            "id": 1553132409,
+            "term": "very well",
+            "definition": "r\u1ea5t t\u1ed1t",
+            "image": null,
+            "rank": 21
+        },
+        {
+            "id": 1553132410,
+            "term": "speak English very well",
+            "definition": "n\u00f3i ti\u1ebfng Anh r\u1ea5t t\u1ed1t",
+            "image": null,
+            "rank": 22
+        },
+        {
+            "id": 1553132411,
+            "term": "say",
+            "definition": "n\u00f3i",
+            "image": null,
+            "rank": 23
+        },
+        {
+            "id": 1553132412,
+            "term": "as",
+            "definition": "nh\u01b0",
+            "image": null,
+            "rank": 24
+        },
+        {
+            "id": 1553132413,
+            "term": "how do you say .... in Italian?",
+            "definition": "l\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 b\u1ea1n n\u00f3i .... trong ti\u1ebfng \u00dd?",
+            "image": null,
+            "rank": 25
+        },
+        {
+            "id": 1553132414,
+            "term": "English",
+            "definition": "Anh",
+            "image": null,
+            "rank": 26
+        },
+        {
+            "id": 1553132415,
+            "term": "You are English?",
+            "definition": "B\u1ea1n l\u00e0 ti\u1ebfng Anh?",
+            "image": null,
+            "rank": 27
+        },
+        {
+            "id": 1553132416,
+            "term": "I am English",
+            "definition": "T\u00f4i Ti\u1ebfng Anh",
+            "image": null,
+            "rank": 28
+        },
+        {
+            "id": 1553132417,
+            "term": "American",
+            "definition": "M\u1ef9",
+            "image": null,
+            "rank": 29
+        },
+        {
+            "id": 1553132418,
+            "term": "you're not American",
+            "definition": "b\u1ea1n kh\u00f4ng ph\u1ea3i l\u00e0 ng\u01b0\u1eddi M\u1ef9",
+            "image": null,
+            "rank": 30
+        },
+        {
+            "id": 1553132419,
+            "term": "are not English",
+            "definition": "kh\u00f4ng ph\u1ea3i l\u00e0 ti\u1ebfng Anh",
+            "image": null,
+            "rank": 31
+        },
+        {
+            "id": 1553132420,
+            "term": "happy",
+            "definition": "h\u1ea1nh ph\u00fac",
+            "image": null,
+            "rank": 32
+        },
+        {
+            "id": 1553132421,
+            "term": "Are you happy?",
+            "definition": "B\u1ea1n c\u00f3 h\u1ea1nh ph\u00fac kh\u00f4ng?",
+            "image": null,
+            "rank": 33
+        },
+        {
+            "id": 1553132422,
+            "term": "tired",
+            "definition": "m\u1ec7t m\u1ecfi",
+            "image": null,
+            "rank": 34
+        },
+        {
+            "id": 1553132423,
+            "term": "he",
+            "definition": "\u00f4ng",
+            "image": null,
+            "rank": 35
+        },
+        {
+            "id": 1553132424,
+            "term": "but",
+            "definition": "nh\u01b0ng",
+            "image": null,
+            "rank": 36
+        },
+        {
+            "id": 1553132425,
+            "term": "I'm happy but he is tired",
+            "definition": "T\u00f4i r\u1ea5t vui nh\u01b0ng \u00f4ng l\u00e0 m\u1ec7t m\u1ecfi",
+            "image": null,
+            "rank": 37
+        },
+        {
+            "id": 1553132426,
+            "term": "I'm tired",
+            "definition": "T\u00f4i m\u1ec7t m\u1ecfi",
+            "image": null,
+            "rank": 38
+        },
+        {
+            "id": 1553132427,
+            "term": "I am English but he is Italian",
+            "definition": "T\u00f4i ti\u1ebfng Anh, nh\u01b0ng \u00f4ng l\u00e0 ng\u01b0\u1eddi \u00dd",
+            "image": null,
+            "rank": 39
+        },
+        {
+            "id": 1553132428,
+            "term": "my name is",
+            "definition": "T\u00ean t\u00f4i l\u00e0",
+            "image": null,
+            "rank": 40
+        },
+        {
+            "id": 1553132429,
+            "term": "My name is Peter",
+            "definition": "T\u00ean t\u00f4i l\u00e0 Peter",
+            "image": null,
+            "rank": 41
+        },
+        {
+            "id": 1553132430,
+            "term": "wonderful",
+            "definition": "tuy\u1ec7t v\u1eddi",
+            "image": null,
+            "rank": 42
+        },
+        {
+            "id": 1553132431,
+            "term": "this is",
+            "definition": "\u0111\u00e2y l\u00e0",
+            "image": null,
+            "rank": 43
+        },
+        {
+            "id": 1553132432,
+            "term": "black",
+            "definition": "\u0111en",
+            "image": null,
+            "rank": 44
+        },
+        {
+            "id": 1553132433,
+            "term": "blue",
+            "definition": "m\u00e0u xanh",
+            "image": null,
+            "rank": 45
+        },
+        {
+            "id": 1553132434,
+            "term": "green",
+            "definition": "xanh",
+            "image": null,
+            "rank": 46
+        },
+        {
+            "id": 1553132435,
+            "term": "red",
+            "definition": "\u0111o\u0309",
+            "image": null,
+            "rank": 47
+        },
+        {
+            "id": 1553132436,
+            "term": "white",
+            "definition": "tr\u1eafng",
+            "image": null,
+            "rank": 48
+        },
+        {
+            "id": 1553132437,
+            "term": "yellow",
+            "definition": "v\u00e0ng",
+            "image": null,
+            "rank": 49
+        },
+        {
+            "id": 1553132438,
+            "term": "ridiculous",
+            "definition": "v\u00f4 l\u00fd",
+            "image": null,
+            "rank": 50
+        },
+        {
+            "id": 1553132439,
+            "term": "this is ridiculous",
+            "definition": "n\u00e0y l\u00e0 v\u00f4 l\u00fd",
+            "image": null,
+            "rank": 51
+        },
+        {
+            "id": 1553132440,
+            "term": "you're wonderful",
+            "definition": "b\u1ea1n th\u1eadt l\u00e0 tuy\u1ec7t v\u1eddi",
+            "image": null,
+            "rank": 52
+        },
+        {
+            "id": 1553132441,
+            "term": "I",
+            "definition": "T\u00f4i",
+            "image": null,
+            "rank": 53
+        },
+        {
+            "id": 1553132442,
+            "term": "hot",
+            "definition": "n\u00f3ng",
+            "image": null,
+            "rank": 54
+        },
+        {
+            "id": 1553132443,
+            "term": "I'm hot",
+            "definition": "T\u00f4i n\u00f3ng",
+            "image": null,
+            "rank": 55
+        },
+        {
+            "id": 1553132444,
+            "term": "cold",
+            "definition": "la\u0323nh",
+            "image": null,
+            "rank": 56
+        },
+        {
+            "id": 1553132445,
+            "term": "I'm cold",
+            "definition": "T\u00f4i l\u1ea1nh",
+            "image": null,
+            "rank": 57
+        },
+        {
+            "id": 1553132446,
+            "term": "you hot?",
+            "definition": "b\u1ea1n n\u00f3ng?",
+            "image": null,
+            "rank": 58
+        },
+        {
+            "id": 1553132447,
+            "term": "you cold?",
+            "definition": "b\u1ea1n l\u1ea1nh?",
+            "image": null,
+            "rank": 59
+        },
+        {
+            "id": 1553132448,
+            "term": "I do not have hot",
+            "definition": "T\u00f4i kh\u00f4ng c\u00f3 n\u00f3ng",
+            "image": null,
+            "rank": 60
+        },
+        {
+            "id": 1553132449,
+            "term": "tea",
+            "definition": "tr\u00e0",
+            "image": null,
+            "rank": 61
+        },
+        {
+            "id": 1553132450,
+            "term": "there",
+            "definition": "c\u00f3",
+            "image": null,
+            "rank": 62
+        },
+        {
+            "id": 1553132451,
+            "term": "there's the coffee?",
+            "definition": "c\u00f3 c\u00e0 ph\u00ea?",
+            "image": null,
+            "rank": 63
+        },
+        {
+            "id": 1553132452,
+            "term": "there's the beer?",
+            "definition": "c\u00f3 bia?",
+            "image": null,
+            "rank": 64
+        },
+        {
+            "id": 1553132453,
+            "term": "Beer",
+            "definition": "Bia",
+            "image": null,
+            "rank": 65
+        },
+        {
+            "id": 1553132454,
+            "term": "there's the wine?",
+            "definition": "c\u00f3 r\u01b0\u1ee3u vang?",
+            "image": null,
+            "rank": 66
+        },
+        {
+            "id": 1553132455,
+            "term": "yes, there is wine",
+            "definition": "c\u00f3, c\u00f3 r\u01b0\u1ee3u vang",
+            "image": null,
+            "rank": 67
+        },
+        {
+            "id": 1553132456,
+            "term": "you have ...?",
+            "definition": "b\u1ea1n c\u00f3 ...?",
+            "image": null,
+            "rank": 68
+        },
+        {
+            "id": 1553132457,
+            "term": "you have some wine?",
+            "definition": "b\u1ea1n c\u00f3 m\u1ed9t s\u1ed1 r\u01b0\u1ee3u vang?",
+            "image": null,
+            "rank": 69
+        },
+        {
+            "id": 1553132458,
+            "term": "There are taxis?",
+            "definition": "C\u00f3 taxi?",
+            "image": null,
+            "rank": 70
+        },
+        {
+            "id": 1553132459,
+            "term": "people",
+            "definition": "nh\u00e2n d\u00e2n",
+            "image": null,
+            "rank": 71
+        },
+        {
+            "id": 1553132460,
+            "term": "there are people?",
+            "definition": "c\u00f3 nh\u1eefng ng\u01b0\u1eddi?",
+            "image": null,
+            "rank": 72
+        },
+        {
+            "id": 1553132461,
+            "term": "very",
+            "definition": "r\u1ea5t",
+            "image": null,
+            "rank": 73
+        },
+        {
+            "id": 1553132462,
+            "term": "none",
+            "definition": "kh\u00f4ng ai",
+            "image": null,
+            "rank": 74
+        },
+        {
+            "id": 1553132463,
+            "term": "I buy",
+            "definition": "T\u00f4i mua",
+            "image": null,
+            "rank": 75
+        },
+        {
+            "id": 1553132464,
+            "term": "coast",
+            "definition": "b\u1edd bi\u1ec3n",
+            "image": null,
+            "rank": 76
+        },
+        {
+            "id": 1553132465,
+            "term": "how much?",
+            "definition": "bao nhi\u00eau?",
+            "image": null,
+            "rank": 77
+        },
+        {
+            "id": 1553132466,
+            "term": "dear",
+            "definition": "th\u00e2n",
+            "image": null,
+            "rank": 78
+        },
+        {
+            "id": 1553132467,
+            "term": "economic",
+            "definition": "kinh t\u1ebf",
+            "image": null,
+            "rank": 79
+        },
+        {
+            "id": 1553132468,
+            "term": "is expensive",
+            "definition": "l\u00e0 t\u1ed1n k\u00e9m",
+            "image": null,
+            "rank": 80
+        },
+        {
+            "id": 1553132469,
+            "term": "is very expensive",
+            "definition": "l\u00e0 r\u1ea5t t\u1ed1n k\u00e9m",
+            "image": null,
+            "rank": 81
+        },
+        {
+            "id": 1553132470,
+            "term": "is more expensive",
+            "definition": "l\u00e0 t\u1ed1n k\u00e9m h\u01a1n",
+            "image": null,
+            "rank": 82
+        },
+        {
+            "id": 1553132471,
+            "term": "is cheaper",
+            "definition": "l\u00e0 r\u1ebb h\u01a1n",
+            "image": null,
+            "rank": 83
+        },
+        {
+            "id": 1553132472,
+            "term": "free",
+            "definition": "mi\u1ec5n ph\u00ed",
+            "image": null,
+            "rank": 84
+        },
+        {
+            "id": 1553132473,
+            "term": "too",
+            "definition": "qu\u00e1",
+            "image": null,
+            "rank": 85
+        },
+        {
+            "id": 1553132474,
+            "term": "different",
+            "definition": "kh\u00e1c nhau",
+            "image": null,
+            "rank": 86
+        },
+        {
+            "id": 1553132475,
+            "term": "great",
+            "definition": "l\u1edbn",
+            "image": null,
+            "rank": 87
+        },
+        {
+            "id": 1553132476,
+            "term": "is great",
+            "definition": "l\u00e0 r\u1ea5t t\u1ed1t",
+            "image": null,
+            "rank": 88
+        },
+        {
+            "id": 1553132477,
+            "term": "small",
+            "definition": "nho\u0309",
+            "image": null,
+            "rank": 89
+        },
+        {
+            "id": 1553132478,
+            "term": "is small",
+            "definition": "l\u00e0 nh\u1ecf",
+            "image": null,
+            "rank": 90
+        },
+        {
+            "id": 1553132479,
+            "term": "seems",
+            "definition": "d\u01b0\u1eddng nh\u01b0",
+            "image": null,
+            "rank": 91
+        },
+        {
+            "id": 1553132480,
+            "term": "appears to be smaller",
+            "definition": "d\u01b0\u1eddng nh\u01b0 l\u00e0 nh\u1ecf h\u01a1n",
+            "image": null,
+            "rank": 92
+        },
+        {
+            "id": 1553132481,
+            "term": "true",
+            "definition": "\u0111\u00fang",
+            "image": null,
+            "rank": 93
+        },
+        {
+            "id": 1553132482,
+            "term": "easy",
+            "definition": "d\u1ec5 d\u00e0ng",
+            "image": null,
+            "rank": 94
+        },
+        {
+            "id": 1553132483,
+            "term": "difficult",
+            "definition": "kh\u00f3 kh\u0103n",
+            "image": null,
+            "rank": 95
+        },
+        {
+            "id": 1553132484,
+            "term": "urgent",
+            "definition": "kh\u1ea9n c\u1ea5p",
+            "image": null,
+            "rank": 96
+        },
+        {
+            "id": 1553132485,
+            "term": "important",
+            "definition": "quan tro\u0323ng",
+            "image": null,
+            "rank": 97
+        },
+        {
+            "id": 1553132486,
+            "term": "possible",
+            "definition": "c\u00f3 th\u1ec3",
+            "image": null,
+            "rank": 98
+        },
+        {
+            "id": 1553132487,
+            "term": "it is possible",
+            "definition": "c\u00f3 th\u1ec3",
+            "image": null,
+            "rank": 99
+        },
+        {
+            "id": 1553132488,
+            "term": "not",
+            "definition": "kh\u00f4ng",
+            "image": null,
+            "rank": 100
+        },
+        {
+            "id": 1553132489,
+            "term": "impossible",
+            "definition": "kh\u00f4ng th\u1ec3",
+            "image": null,
+            "rank": 101
+        },
+        {
+            "id": 1553132490,
+            "term": "it is impossible",
+            "definition": "n\u00f3 l\u00e0 kh\u00f4ng th\u1ec3",
+            "image": null,
+            "rank": 102
+        },
+        {
+            "id": 1553132491,
+            "term": "what is it?",
+            "definition": "n\u00f3 l\u00e0 g\u00ec?",
+            "image": null,
+            "rank": 103
+        },
+        {
+            "id": 1553132492,
+            "term": "I know",
+            "definition": "T\u00f4i bi\u1ebft",
+            "image": null,
+            "rank": 104
+        },
+        {
+            "id": 1553132493,
+            "term": "I do not know",
+            "definition": "T\u00f4i kh\u00f4ng bi\u1ebft",
+            "image": null,
+            "rank": 105
+        },
+        {
+            "id": 1553132494,
+            "term": "pork",
+            "definition": "th\u1ecbt l\u1ee3n",
+            "image": null,
+            "rank": 106
+        },
+        {
+            "id": 1553132495,
+            "term": "beef",
+            "definition": "th\u1ecbt b\u00f2",
+            "image": null,
+            "rank": 107
+        },
+        {
+            "id": 1553132496,
+            "term": "chicken",
+            "definition": "g\u00e0",
+            "image": null,
+            "rank": 108
+        },
+        {
+            "id": 1553132497,
+            "term": "is the beef?",
+            "definition": "l\u00e0 th\u1ecbt b\u00f2?",
+            "image": null,
+            "rank": 109
+        },
+        {
+            "id": 1553132498,
+            "term": "indeed",
+            "definition": "th\u1ef1c s\u1ef1",
+            "image": null,
+            "rank": 110
+        },
+        {
+            "id": 1553132499,
+            "term": "I like",
+            "definition": "T\u00f4i th\u00edch",
+            "image": null,
+            "rank": 111
+        },
+        {
+            "id": 1553132500,
+            "term": "shop",
+            "definition": "c\u1eeda h\u00e0ng",
+            "image": null,
+            "rank": 112
+        },
+        {
+            "id": 1553132501,
+            "term": "There are shops?",
+            "definition": "C\u00f3 nh\u1eefng c\u1eeda h\u00e0ng?",
+            "image": null,
+            "rank": 113
+        },
+        {
+            "id": 1553132502,
+            "term": "taxi",
+            "definition": "taxi",
+            "image": null,
+            "rank": 114
+        },
+        {
+            "id": 1553132503,
+            "term": "many",
+            "definition": "nhi\u1ec1u",
+            "image": null,
+            "rank": 115
+        },
+        {
+            "id": 1553132504,
+            "term": "There are plenty of taxis",
+            "definition": "C\u00f3 r\u1ea5t nhi\u1ec1u taxi",
+            "image": null,
+            "rank": 116
+        },
+        {
+            "id": 1553132505,
+            "term": "there are many problems",
+            "definition": "c\u00f3 nhi\u1ec1u v\u1ea5n \u0111\u1ec1",
+            "image": null,
+            "rank": 117
+        },
+        {
+            "id": 1553132506,
+            "term": "there are no taxis",
+            "definition": "kh\u00f4ng c\u00f3 xe taxi",
+            "image": null,
+            "rank": 118
+        },
+        {
+            "id": 1553132507,
+            "term": "there are no problems",
+            "definition": "kh\u00f4ng c\u00f3 v\u1ea5n \u0111\u1ec1",
+            "image": null,
+            "rank": 119
+        },
+        {
+            "id": 1553132508,
+            "term": "because",
+            "definition": "v\u00ec",
+            "image": null,
+            "rank": 120
+        },
+        {
+            "id": 1553132509,
+            "term": "unfortunately",
+            "definition": "kh\u00f4ng may",
+            "image": null,
+            "rank": 121
+        },
+        {
+            "id": 1553132510,
+            "term": "certainly",
+            "definition": "ch\u1eafc ch\u1eafn",
+            "image": null,
+            "rank": 122
+        },
+        {
+            "id": 1553132511,
+            "term": "especially",
+            "definition": "\u0111\u1eb7c bi\u1ec7t l\u00e0",
+            "image": null,
+            "rank": 123
+        },
+        {
+            "id": 1553132512,
+            "term": "for example",
+            "definition": "v\u00ed d\u1ee5",
+            "image": null,
+            "rank": 124
+        },
+        {
+            "id": 1553132513,
+            "term": "hurts",
+            "definition": "\u0111au",
+            "image": null,
+            "rank": 125
+        },
+        {
+            "id": 1553132514,
+            "term": "noisy",
+            "definition": "\u1ed3n \u00e0o",
+            "image": null,
+            "rank": 126
+        },
+        {
+            "id": 1553132515,
+            "term": "an accident",
+            "definition": "m\u1ed9t tai n\u1ea1n",
+            "image": null,
+            "rank": 127
+        },
+        {
+            "id": 1553132516,
+            "term": "bad",
+            "definition": "x\u1ea5u",
+            "image": null,
+            "rank": 128
+        },
+        {
+            "id": 1553132517,
+            "term": "angry",
+            "definition": "t\u1ee9c gi\u1eadn",
+            "image": null,
+            "rank": 129
+        },
+        {
+            "id": 1553132518,
+            "term": "is angry",
+            "definition": "l\u00e0 t\u1ee9c gi\u1eadn",
+            "image": null,
+            "rank": 130
+        },
+        {
+            "id": 1553132519,
+            "term": "thirsty",
+            "definition": "kh\u00e1t n\u01b0\u1edbc",
+            "image": null,
+            "rank": 131
+        },
+        {
+            "id": 1553132520,
+            "term": "teacher",
+            "definition": "gi\u00e1o vi\u00ean",
+            "image": null,
+            "rank": 132
+        },
+        {
+            "id": 1553132521,
+            "term": "friend",
+            "definition": "ng\u01b0\u1eddi b\u1ea1n",
+            "image": null,
+            "rank": 133
+        },
+        {
+            "id": 1553132522,
+            "term": "my",
+            "definition": "cu\u0309a t\u00f4i",
+            "image": null,
+            "rank": 134
+        },
+        {
+            "id": 1553132523,
+            "term": "she is",
+            "definition": "c\u00f4 \u1ea5y l\u00e0",
+            "image": null,
+            "rank": 135
+        },
+        {
+            "id": 1553132524,
+            "term": "is my teacher",
+            "definition": "l\u00e0 gi\u00e1o vi\u00ean c\u1ee7a t\u00f4i",
+            "image": null,
+            "rank": 136
+        },
+        {
+            "id": 1553132525,
+            "term": "funny",
+            "definition": "bu\u1ed3n c\u01b0\u1eddi",
+            "image": null,
+            "rank": 137
+        },
+        {
+            "id": 1553132526,
+            "term": "is beautiful",
+            "definition": "l\u00e0 \u0111\u1eb9p",
+            "image": null,
+            "rank": 138
+        },
+        {
+            "id": 1553132527,
+            "term": "it is true",
+            "definition": "\u0111\u00f3 l\u00e0 s\u1ef1 th\u1eadt",
+            "image": null,
+            "rank": 139
+        },
+        {
+            "id": 1553132528,
+            "term": "I think",
+            "definition": "T\u00f4i ngh\u0129 r\u1eb1ng",
+            "image": null,
+            "rank": 140
+        },
+        {
+            "id": 1553132529,
+            "term": "I think it's great",
+            "definition": "T\u00f4i ngh\u0129 r\u1eb1ng \u0111\u00f3 l\u00e0 tuy\u1ec7t v\u1eddi",
+            "image": null,
+            "rank": 141
+        },
+        {
+            "id": 1553132530,
+            "term": "I think it is small",
+            "definition": "T\u00f4i ngh\u0129 r\u1eb1ng \u0111\u00f3 l\u00e0 nh\u1ecf",
+            "image": null,
+            "rank": 142
+        },
+        {
+            "id": 1553132531,
+            "term": "where",
+            "definition": "\u0111\u00e2u",
+            "image": null,
+            "rank": 143
+        },
+        {
+            "id": 1553132532,
+            "term": "where",
+            "definition": "\u0111\u00e2u",
+            "image": null,
+            "rank": 144
+        },
+        {
+            "id": 1553132533,
+            "term": "that way",
+            "definition": "c\u00e1ch",
+            "image": null,
+            "rank": 145
+        },
+        {
+            "id": 1553132534,
+            "term": "is from that part",
+            "definition": "l\u00e0 t\u1eeb ph\u1ea7n \u0111\u00f3",
+            "image": null,
+            "rank": 146
+        },
+        {
+            "id": 1553132535,
+            "term": "here",
+            "definition": "\u0111\u00e2y",
+            "image": null,
+            "rank": 147
+        },
+        {
+            "id": 1553132536,
+            "term": "is here",
+            "definition": "l\u00e0 \u0111\u00e2y",
+            "image": null,
+            "rank": 148
+        },
+        {
+            "id": 1553132537,
+            "term": "sorry",
+            "definition": "xin l\u1ed7i",
+            "image": null,
+            "rank": 149
+        },
+        {
+            "id": 1553132538,
+            "term": "Where is the hospital?",
+            "definition": "N\u01a1i l\u00e0 b\u1ec7nh vi\u1ec7n?",
+            "image": null,
+            "rank": 150
+        },
+        {
+            "id": 1553132539,
+            "term": "where are you from?",
+            "definition": "\u1edf \u0111\u00e2u t\u1eeb \u0111\u00e2u?",
+            "image": null,
+            "rank": 151
+        },
+        {
+            "id": 1553132540,
+            "term": "I come from the United States",
+            "definition": "T\u00f4i \u0111\u1ebfn t\u1eeb M\u1ef9",
+            "image": null,
+            "rank": 152
+        },
+        {
+            "id": 1553132541,
+            "term": "a party",
+            "definition": "m\u1ed9t b\u00ean",
+            "image": null,
+            "rank": 153
+        },
+        {
+            "id": 1553132542,
+            "term": "where's the party?",
+            "definition": "n\u01a1i c\u1ee7a nh\u1eefng b\u1eefa ti\u1ec7c?",
+            "image": null,
+            "rank": 154
+        },
+        {
+            "id": 1553132543,
+            "term": "What does this mean?",
+            "definition": "\u0110i\u1ec1u n\u00e0y c\u00f3 ngh\u0129a g\u00ec?",
+            "image": null,
+            "rank": 155
+        },
+        {
+            "id": 1553132544,
+            "term": "the hospital is that way",
+            "definition": "b\u1ec7nh vi\u1ec7n l\u00e0 c\u00e1ch m\u00e0",
+            "image": null,
+            "rank": 156
+        },
+        {
+            "id": 1553132545,
+            "term": "turns",
+            "definition": "l\u01b0\u1ee3t",
+            "image": null,
+            "rank": 157
+        },
+        {
+            "id": 1553132546,
+            "term": "right",
+            "definition": "ngay",
+            "image": null,
+            "rank": 158
+        },
+        {
+            "id": 1553132547,
+            "term": "turn right",
+            "definition": "r\u1ebd ph\u1ea3i",
+            "image": null,
+            "rank": 159
+        },
+        {
+            "id": 1553132548,
+            "term": "left",
+            "definition": "tr\u00e1i",
+            "image": null,
+            "rank": 160
+        },
+        {
+            "id": 1553132549,
+            "term": "straight",
+            "definition": "ngay",
+            "image": null,
+            "rank": 161
+        },
+        {
+            "id": 1553132550,
+            "term": "away",
+            "definition": "xa",
+            "image": null,
+            "rank": 162
+        },
+        {
+            "id": 1553132551,
+            "term": "the hotel is far",
+            "definition": "kh\u00e1ch s\u1ea1n l\u00e0 xa",
+            "image": null,
+            "rank": 163
+        },
+        {
+            "id": 1553132552,
+            "term": "close",
+            "definition": "g\u1ea7n",
+            "image": null,
+            "rank": 164
+        },
+        {
+            "id": 1553132553,
+            "term": "to",
+            "definition": "\u0111\u1ec3",
+            "image": null,
+            "rank": 165
+        },
+        {
+            "id": 1553132554,
+            "term": "north",
+            "definition": "ph\u00eda b\u1eafc",
+            "image": null,
+            "rank": 166
+        },
+        {
+            "id": 1553132555,
+            "term": "south",
+            "definition": "nam",
+            "image": null,
+            "rank": 167
+        },
+        {
+            "id": 1553132556,
+            "term": "east",
+            "definition": "\u0111\u00f4ng",
+            "image": null,
+            "rank": 168
+        },
+        {
+            "id": 1553132557,
+            "term": "west",
+            "definition": "t\u00e2y",
+            "image": null,
+            "rank": 169
+        },
+        {
+            "id": 1553132558,
+            "term": "now",
+            "definition": "b\u00e2y gi\u1edd",
+            "image": null,
+            "rank": 170
+        },
+        {
+            "id": 1553132559,
+            "term": "one",
+            "definition": "m\u00f4\u0323t",
+            "image": null,
+            "rank": 171
+        },
+        {
+            "id": 1553132560,
+            "term": "two",
+            "definition": "hai",
+            "image": null,
+            "rank": 172
+        },
+        {
+            "id": 1553132561,
+            "term": "three",
+            "definition": "ba",
+            "image": null,
+            "rank": 173
+        },
+        {
+            "id": 1553132562,
+            "term": "four",
+            "definition": "b\u1ed1n",
+            "image": null,
+            "rank": 174
+        },
+        {
+            "id": 1553132563,
+            "term": "five",
+            "definition": "n\u0103m",
+            "image": null,
+            "rank": 175
+        },
+        {
+            "id": 1553132564,
+            "term": "six",
+            "definition": "s\u00e1u",
+            "image": null,
+            "rank": 176
+        },
+        {
+            "id": 1553132565,
+            "term": "seven",
+            "definition": "ba\u0309y",
+            "image": null,
+            "rank": 177
+        },
+        {
+            "id": 1553132566,
+            "term": "eight",
+            "definition": "t\u00e1m",
+            "image": null,
+            "rank": 178
+        },
+        {
+            "id": 1553132567,
+            "term": "nine",
+            "definition": "ch\u00edn",
+            "image": null,
+            "rank": 179
+        },
+        {
+            "id": 1553132568,
+            "term": "ten",
+            "definition": "m\u01b0\u1eddi",
+            "image": null,
+            "rank": 180
+        },
+        {
+            "id": 1553132569,
+            "term": "twenty",
+            "definition": "hai m\u01b0\u01a1i",
+            "image": null,
+            "rank": 181
+        },
+        {
+            "id": 1553132570,
+            "term": "thirty",
+            "definition": "ba m\u01b0\u01a1i",
+            "image": null,
+            "rank": 182
+        },
+        {
+            "id": 1553132571,
+            "term": "forty-five",
+            "definition": "b\u1ed1n m\u01b0\u01a1i l\u0103m",
+            "image": null,
+            "rank": 183
+        },
+        {
+            "id": 1553132572,
+            "term": "the journey",
+            "definition": "cu\u1ed9c h\u00e0nh tr\u00ecnh",
+            "image": null,
+            "rank": 184
+        },
+        {
+            "id": 1553132573,
+            "term": "How long will it take?",
+            "definition": "N\u00f3 s\u1ebd m\u1ea5t bao l\u00e2u?",
+            "image": null,
+            "rank": 185
+        },
+        {
+            "id": 1553132574,
+            "term": "hour",
+            "definition": "gi\u1edd",
+            "image": null,
+            "rank": 186
+        },
+        {
+            "id": 1553132575,
+            "term": "what time is it?",
+            "definition": "m\u1ea5y gi\u1edd r\u1ed3i?",
+            "image": null,
+            "rank": 187
+        },
+        {
+            "id": 1553132576,
+            "term": "eleven",
+            "definition": "m\u01b0\u1eddi m\u1ed9t",
+            "image": null,
+            "rank": 188
+        },
+        {
+            "id": 1553132577,
+            "term": "are eleven",
+            "definition": "m\u01b0\u1eddi m\u1ed9t",
+            "image": null,
+            "rank": 189
+        },
+        {
+            "id": 1553132578,
+            "term": "twelve",
+            "definition": "m\u01b0\u1eddi hai",
+            "image": null,
+            "rank": 190
+        },
+        {
+            "id": 1553132579,
+            "term": "are the twelve",
+            "definition": "l\u00e0 m\u01b0\u1eddi hai",
+            "image": null,
+            "rank": 191
+        },
+        {
+            "id": 1553132580,
+            "term": "another",
+            "definition": "kh\u00e1c",
+            "image": null,
+            "rank": 192
+        },
+        {
+            "id": 1553132581,
+            "term": "a day",
+            "definition": "m\u1ed9t ng\u00e0y",
+            "image": null,
+            "rank": 193
+        },
+        {
+            "id": 1553132582,
+            "term": "two days",
+            "definition": "hai ng\u00e0y",
+            "image": null,
+            "rank": 194
+        },
+        {
+            "id": 1553132583,
+            "term": "at least",
+            "definition": "\u00edt nh\u1ea5t",
+            "image": null,
+            "rank": 195
+        },
+        {
+            "id": 1553132584,
+            "term": "I",
+            "definition": "T\u00f4i",
+            "image": null,
+            "rank": 196
+        },
+        {
+            "id": 1553132585,
+            "term": "I drink wine",
+            "definition": "T\u00f4i u\u1ed1ng r\u01b0\u1ee3u",
+            "image": null,
+            "rank": 197
+        },
+        {
+            "id": 1553132586,
+            "term": "I have to go to the bathroom",
+            "definition": "T\u00f4i ph\u1ea3i \u0111i v\u00e0o ph\u00f2ng t\u1eafm",
+            "image": null,
+            "rank": 198
+        },
+        {
+            "id": 1553132587,
+            "term": "I have to go to the Vatican",
+            "definition": "T\u00f4i ph\u1ea3i \u0111i \u0111\u1ebfn Vatican",
+            "image": null,
+            "rank": 199
+        },
+        {
+            "id": 1553132588,
+            "term": "boring",
+            "definition": "nh\u00e0m ch\u00e1n",
+            "image": null,
+            "rank": 200
+        },
+        {
+            "id": 1553132589,
+            "term": "I think it's boring",
+            "definition": "T\u00f4i ngh\u0129 r\u1eb1ng \u0111\u00f3 l\u00e0 nh\u00e0m ch\u00e1n",
+            "image": null,
+            "rank": 201
+        },
+        {
+            "id": 1553132590,
+            "term": "I think it's beautiful",
+            "definition": "T\u00f4i ngh\u0129 r\u1eb1ng n\u00f3 \u0111\u1eb9p",
+            "image": null,
+            "rank": 202
+        },
+        {
+            "id": 1553132591,
+            "term": "I",
+            "definition": "T\u00f4i",
+            "image": null,
+            "rank": 203
+        },
+        {
+            "id": 1553132592,
+            "term": "I could drink beer",
+            "definition": "T\u00f4i c\u00f3 th\u1ec3 u\u1ed1ng bia",
+            "image": null,
+            "rank": 204
+        },
+        {
+            "id": 1553132593,
+            "term": "I could be American",
+            "definition": "T\u00f4i c\u00f3 th\u1ec3 l\u00e0 ng\u01b0\u1eddi M\u1ef9",
+            "image": null,
+            "rank": 205
+        },
+        {
+            "id": 1553132594,
+            "term": "satisfied",
+            "definition": "h\u00e0i l\u00f2ng",
+            "image": null,
+            "rank": 206
+        },
+        {
+            "id": 1553132595,
+            "term": "you may be satisfied",
+            "definition": "b\u1ea1n c\u00f3 th\u1ec3 h\u00e0i l\u00f2ng",
+            "image": null,
+            "rank": 207
+        },
+        {
+            "id": 1553132596,
+            "term": "disappointing",
+            "definition": "th\u1ea5t v\u1ecdng",
+            "image": null,
+            "rank": 208
+        },
+        {
+            "id": 1553132597,
+            "term": "might be a disappointment",
+            "definition": "c\u00f3 th\u1ec3 l\u00e0 m\u1ed9t s\u1ef1 th\u1ea5t v\u1ecdng",
+            "image": null,
+            "rank": 209
+        },
+        {
+            "id": 1553132598,
+            "term": "dangerous",
+            "definition": "nguy hi\u1ec3m",
+            "image": null,
+            "rank": 210
+        },
+        {
+            "id": 1553132599,
+            "term": "could be dangerous",
+            "definition": "c\u00f3 th\u1ec3 l\u00e0 nguy hi\u1ec3m",
+            "image": null,
+            "rank": 211
+        },
+        {
+            "id": 1553132600,
+            "term": "noisy",
+            "definition": "\u1ed3n \u00e0o",
+            "image": null,
+            "rank": 212
+        },
+        {
+            "id": 1553132601,
+            "term": "wonderful",
+            "definition": "tuy\u1ec7t v\u1eddi",
+            "image": null,
+            "rank": 213
+        },
+        {
+            "id": 1553132602,
+            "term": "I",
+            "definition": "T\u00f4i",
+            "image": null,
+            "rank": 214
+        },
+        {
+            "id": 1553132603,
+            "term": "Should I go to Rome",
+            "definition": "T\u00f4i c\u00f3 n\u00ean \u0111i \u0111\u1ebfn Rome",
+            "image": null,
+            "rank": 215
+        },
+        {
+            "id": 1553132604,
+            "term": "I should drink water",
+            "definition": "T\u00f4i n\u00ean u\u1ed1ng n\u01b0\u1edbc",
+            "image": null,
+            "rank": 216
+        },
+        {
+            "id": 1553132605,
+            "term": "something",
+            "definition": "m\u1ed9t c\u00e1i g\u00ec \u0111\u00f3",
+            "image": null,
+            "rank": 217
+        },
+        {
+            "id": 1553132606,
+            "term": "the coffee is hot",
+            "definition": "c\u00e0 ph\u00ea n\u00f3ng",
+            "image": null,
+            "rank": 218
+        },
+        {
+            "id": 1553132607,
+            "term": "John is the coffee",
+            "definition": "John l\u00e0 c\u00e0 ph\u00ea",
+            "image": null,
+            "rank": 219
+        },
+        {
+            "id": 1553132608,
+            "term": "I do",
+            "definition": "T\u00f4i l\u00e0m",
+            "image": null,
+            "rank": 220
+        },
+        {
+            "id": 1553132609,
+            "term": "I give John Coffee",
+            "definition": "T\u00f4i cho John c\u00e0 ph\u00ea",
+            "image": null,
+            "rank": 221
+        },
+        {
+            "id": 1553132610,
+            "term": "We give the coffee",
+            "definition": "Ch\u00fang t\u00f4i cung c\u1ea5p cho c\u00e0 ph\u00ea",
+            "image": null,
+            "rank": 222
+        },
+        {
+            "id": 1553132611,
+            "term": "Jane is the beer",
+            "definition": "Jane l\u00e0 bia",
+            "image": null,
+            "rank": 223
+        },
+        {
+            "id": 1553132612,
+            "term": "do a beer to Jane",
+            "definition": "l\u00e0m m\u1ed9t bia \u0111\u1ec3 Jane",
+            "image": null,
+            "rank": 224
+        },
+        {
+            "id": 1553132613,
+            "term": "we give a beer",
+            "definition": "ch\u00fang t\u00f4i cung c\u1ea5p cho m\u1ed9t bia",
+            "image": null,
+            "rank": 225
+        },
+        {
+            "id": 1553132614,
+            "term": "the wine is delicious",
+            "definition": "r\u01b0\u1ee3u ngon",
+            "image": null,
+            "rank": 226
+        },
+        {
+            "id": 1553132615,
+            "term": "is the coffee of Peter",
+            "definition": "l\u00e0 c\u00e0 ph\u00ea c\u1ee7a Peter",
+            "image": null,
+            "rank": 227
+        },
+        {
+            "id": 1553132616,
+            "term": "I give Peter Coffee",
+            "definition": "T\u00f4i cho Peter c\u00e0 ph\u00ea",
+            "image": null,
+            "rank": 228
+        },
+        {
+            "id": 1553132617,
+            "term": "give coffee to Peter",
+            "definition": "cho c\u00e0 ph\u00ea \u0111\u1ec3 Peter",
+            "image": null,
+            "rank": 229
+        },
+        {
+            "id": 1553132618,
+            "term": "she has to give me coffee",
+            "definition": "c\u00f4 \u1ea5y \u0111\u00e3 cho t\u00f4i c\u00e0 ph\u00ea",
+            "image": null,
+            "rank": 230
+        },
+        {
+            "id": 1553132619,
+            "term": "Who should I give it?",
+            "definition": "T\u00f4i s\u1ebd cung c\u1ea5p cho ng\u01b0\u1eddi \u0111\u00f3?",
+            "image": null,
+            "rank": 231
+        },
+        {
+            "id": 1553132620,
+            "term": "who gave it to me?",
+            "definition": "ng\u01b0\u1eddi \u0111\u00e3 \u0111\u01b0a n\u00f3 cho t\u00f4i?",
+            "image": null,
+            "rank": 232
+        },
+        {
+            "id": 1553132621,
+            "term": "she needs a beer",
+            "definition": "c\u00f4 \u1ea5y c\u1ea7n m\u1ed9t bia",
+            "image": null,
+            "rank": 233
+        },
+        {
+            "id": 1553132622,
+            "term": "you must give me the coffee",
+            "definition": "b\u1ea1n ph\u1ea3i cung c\u1ea5p cho t\u00f4i c\u00e0 ph\u00ea",
+            "image": null,
+            "rank": 234
+        },
+        {
+            "id": 1553132623,
+            "term": "I do not give beer to Jane",
+            "definition": "T\u00f4i kh\u00f4ng cho bia Jane",
+            "image": null,
+            "rank": 235
+        },
+        {
+            "id": 1553132624,
+            "term": "study",
+            "definition": "nghi\u00ean c\u1ee9u",
+            "image": null,
+            "rank": 236
+        },
+        {
+            "id": 1553132625,
+            "term": "Italian study",
+            "definition": "Nghi\u00ean c\u1ee9u \u00dd",
+            "image": null,
+            "rank": 237
+        },
+        {
+            "id": 1553132626,
+            "term": "what are you doing?",
+            "definition": "b\u1ea1n \u0111ang l\u00e0m g\u00ec?",
+            "image": null,
+            "rank": 238
+        },
+        {
+            "id": 1553132627,
+            "term": "I'm studying Italian",
+            "definition": "T\u00f4i \u0111ang h\u1ecdc ti\u1ebfng \u00dd",
+            "image": null,
+            "rank": 239
+        },
+        {
+            "id": 1553132628,
+            "term": "I'm waiting",
+            "definition": "T\u00f4i \u0111ang ch\u1edd \u0111\u1ee3i",
+            "image": null,
+            "rank": 240
+        },
+        {
+            "id": 1553132629,
+            "term": "is waiting for a taxi",
+            "definition": "\u0111ang ch\u1edd m\u1ed9t chi\u1ebfc taxi",
+            "image": null,
+            "rank": 241
+        },
+        {
+            "id": 1553132630,
+            "term": "is waiting for him",
+            "definition": "\u0111ang ch\u1edd anh",
+            "image": null,
+            "rank": 242
+        },
+        {
+            "id": 1553132631,
+            "term": "go",
+            "definition": "\u0111i",
+            "image": null,
+            "rank": 243
+        },
+        {
+            "id": 1553132632,
+            "term": "promissory",
+            "definition": "tuy\u00ean th\u00ea\u0323",
+            "image": null,
+            "rank": 244
+        },
+        {
+            "id": 1553132633,
+            "term": "I eat",
+            "definition": "T\u00f4i \u0103n",
+            "image": null,
+            "rank": 245
+        },
+        {
+            "id": 1553132634,
+            "term": "he eats",
+            "definition": "\u00f4ng \u0103n",
+            "image": null,
+            "rank": 246
+        },
+        {
+            "id": 1553132635,
+            "term": "when",
+            "definition": "khi",
+            "image": null,
+            "rank": 247
+        },
+        {
+            "id": 1553132636,
+            "term": "when you go there?",
+            "definition": "khi b\u1ea1n \u0111\u1ebfn \u0111\u00f3?",
+            "image": null,
+            "rank": 248
+        },
+        {
+            "id": 1553132637,
+            "term": "when we go away?",
+            "definition": "khi ch\u00fang ta \u0111i xa?",
+            "image": null,
+            "rank": 249
+        },
+        {
+            "id": 1553132638,
+            "term": "I will go tomorrow",
+            "definition": "T\u00f4i s\u1ebd \u0111i v\u00e0o ng\u00e0y mai",
+            "image": null,
+            "rank": 250
+        },
+        {
+            "id": 1553132639,
+            "term": "after",
+            "definition": "sau khi",
+            "image": null,
+            "rank": 251
+        },
+        {
+            "id": 1553132640,
+            "term": "today",
+            "definition": "h\u00f4m nay",
+            "image": null,
+            "rank": 252
+        },
+        {
+            "id": 1553132641,
+            "term": "tomorrow",
+            "definition": "mai",
+            "image": null,
+            "rank": 253
+        },
+        {
+            "id": 1553132642,
+            "term": "afternoon",
+            "definition": "bu\u1ed5i chi\u1ec1u",
+            "image": null,
+            "rank": 254
+        },
+        {
+            "id": 1553132643,
+            "term": "next week",
+            "definition": "tu\u1ea7n t\u1edbi",
+            "image": null,
+            "rank": 255
+        },
+        {
+            "id": 1553132644,
+            "term": "I'm going to Florence next week",
+            "definition": "T\u00f4i s\u1ebd \u0111\u1ebfn Florence v\u00e0o tu\u1ea7n t\u1edbi",
+            "image": null,
+            "rank": 256
+        },
+        {
+            "id": 1553132645,
+            "term": "railway station",
+            "definition": "ga xe l\u01b0\u0309a",
+            "image": null,
+            "rank": 257
+        },
+        {
+            "id": 1553132646,
+            "term": "I go",
+            "definition": "T\u00f4i \u0111i",
+            "image": null,
+            "rank": 258
+        },
+        {
+            "id": 1553132647,
+            "term": "I'm going to London",
+            "definition": "T\u00f4i s\u1ebd t\u1edbi London",
+            "image": null,
+            "rank": 259
+        },
+        {
+            "id": 1553132648,
+            "term": "you're going to a restaurant?",
+            "definition": "b\u1ea1n \u0111ang \u0111i \u0111\u1ebfn m\u1ed9t nh\u00e0 h\u00e0ng?",
+            "image": null,
+            "rank": 260
+        },
+        {
+            "id": 1553132649,
+            "term": "yes, I'm going to the restaurant",
+            "definition": "c\u00f3, t\u00f4i s\u1ebd \u0111\u1ebfn nh\u00e0 h\u00e0ng",
+            "image": null,
+            "rank": 261
+        },
+        {
+            "id": 1553132650,
+            "term": "eat this",
+            "definition": "\u0103n n\u00e0y",
+            "image": null,
+            "rank": 262
+        },
+        {
+            "id": 1553132651,
+            "term": "drink this",
+            "definition": "u\u1ed1ng n\u00e0y",
+            "image": null,
+            "rank": 263
+        },
+        {
+            "id": 1553132652,
+            "term": "wait here",
+            "definition": "\u0111\u1ee3i \u1edf \u0111\u00e2y",
+            "image": null,
+            "rank": 264
+        },
+        {
+            "id": 1553132653,
+            "term": "stopped here",
+            "definition": "d\u1eebng l\u1ea1i \u1edf \u0111\u00e2y",
+            "image": null,
+            "rank": 265
+        },
+        {
+            "id": 1553132654,
+            "term": "you're going to get today?",
+            "definition": "b\u1ea1n s\u1ebd c\u00f3 \u0111\u01b0\u1ee3c ng\u00e0y h\u00f4m nay?",
+            "image": null,
+            "rank": 266
+        },
+        {
+            "id": 1553132655,
+            "term": "I will speak in Italian",
+            "definition": "T\u00f4i s\u1ebd n\u00f3i chuy\u1ec7n b\u1eb1ng ti\u1ebfng \u00dd",
+            "image": null,
+            "rank": 267
+        },
+        {
+            "id": 1553132656,
+            "term": "soon",
+            "definition": "s\u1edbm",
+            "image": null,
+            "rank": 268
+        },
+        {
+            "id": 1553132657,
+            "term": "we'll talk later",
+            "definition": "ch\u00fang ta s\u1ebd n\u00f3i sau",
+            "image": null,
+            "rank": 269
+        },
+        {
+            "id": 1553132658,
+            "term": "I'll see him at the airport",
+            "definition": "T\u00f4i s\u1ebd g\u1eb7p \u00f4ng t\u1ea1i s\u00e2n bay",
+            "image": null,
+            "rank": 270
+        },
+        {
+            "id": 1553132659,
+            "term": "it will be fun",
+            "definition": "n\u00f3 s\u1ebd \u0111\u01b0\u1ee3c vui v\u1ebb",
+            "image": null,
+            "rank": 271
+        },
+        {
+            "id": 1553132660,
+            "term": "it will be difficult",
+            "definition": "n\u00f3 s\u1ebd r\u1ea5t kh\u00f3 kh\u0103n",
+            "image": null,
+            "rank": 272
+        },
+        {
+            "id": 1553132661,
+            "term": "incredible",
+            "definition": "kh\u00f4ng th\u1ec3 tin \u0111\u01b0\u1ee3c",
+            "image": null,
+            "rank": 273
+        },
+        {
+            "id": 1553132662,
+            "term": "will be incredible",
+            "definition": "s\u1ebd l\u00e0 kh\u00f4ng th\u1ec3 tin \u0111\u01b0\u1ee3c",
+            "image": null,
+            "rank": 274
+        },
+        {
+            "id": 1553132663,
+            "term": "slowly",
+            "definition": "t\u1eeb t\u1eeb",
+            "image": null,
+            "rank": 275
+        },
+        {
+            "id": 1553132664,
+            "term": "more",
+            "definition": "h\u01a1n",
+            "image": null,
+            "rank": 276
+        },
+        {
+            "id": 1553132665,
+            "term": "you speak more slowly, please?",
+            "definition": "b\u1ea1n n\u00f3i ch\u1eadm h\u01a1n, xin vui l\u00f2ng?",
+            "image": null,
+            "rank": 277
+        },
+        {
+            "id": 1553132666,
+            "term": "repeat",
+            "definition": "l\u0103\u0323p la\u0323i",
+            "image": null,
+            "rank": 278
+        },
+        {
+            "id": 1553132667,
+            "term": "Can you repeat that, please?",
+            "definition": "B\u1ea1n c\u00f3 th\u1ec3 l\u1eb7p l\u1ea1i \u0111i\u1ec1u \u0111\u00f3, xin vui l\u00f2ng?",
+            "image": null,
+            "rank": 279
+        },
+        {
+            "id": 1553132668,
+            "term": "There was",
+            "definition": "C\u00f3",
+            "image": null,
+            "rank": 280
+        },
+        {
+            "id": 1553132669,
+            "term": "There was a problem?",
+            "definition": "C\u00f3 m\u1ed9t v\u1ea5n \u0111\u1ec1?",
+            "image": null,
+            "rank": 281
+        },
+        {
+            "id": 1553132670,
+            "term": "there was a problem",
+            "definition": "c\u00f3 m\u1ed9t v\u1ea5n \u0111\u1ec1",
+            "image": null,
+            "rank": 282
+        },
+        {
+            "id": 1553132671,
+            "term": "there was wine?",
+            "definition": "c\u00f3 r\u01b0\u1ee3u vang?",
+            "image": null,
+            "rank": 283
+        },
+        {
+            "id": 1553132672,
+            "term": "someone",
+            "definition": "m\u1ed9t ng\u01b0\u1eddi n\u00e0o \u0111\u00f3",
+            "image": null,
+            "rank": 284
+        },
+        {
+            "id": 1553132673,
+            "term": "There was someone there",
+            "definition": "C\u00f3 m\u1ed9t ng\u01b0\u1eddi n\u00e0o \u0111\u00f3 c\u00f3",
+            "image": null,
+            "rank": 285
+        },
+        {
+            "id": 1553132674,
+            "term": "I went",
+            "definition": "T\u00f4i \u0111\u00e3 \u0111i",
+            "image": null,
+            "rank": 286
+        },
+        {
+            "id": 1553132675,
+            "term": "I went to England",
+            "definition": "T\u00f4i \u0111\u00e3 \u0111\u1ebfn Anh",
+            "image": null,
+            "rank": 287
+        },
+        {
+            "id": 1553132676,
+            "term": "went to Florence last week",
+            "definition": "\u0111i \u0111\u1ebfn Florence tu\u1ea7n tr\u01b0\u1edbc",
+            "image": null,
+            "rank": 288
+        },
+        {
+            "id": 1553132677,
+            "term": "I was cold",
+            "definition": "T\u00f4i \u0111\u00e3 l\u1ea1nh",
+            "image": null,
+            "rank": 289
+        },
+        {
+            "id": 1553132678,
+            "term": "there was wine",
+            "definition": "c\u00f3 r\u01b0\u1ee3u",
+            "image": null,
+            "rank": 290
+        },
+        {
+            "id": 1553132679,
+            "term": "there was no taxi",
+            "definition": "kh\u00f4ng c\u00f3 xe taxi",
+            "image": null,
+            "rank": 291
+        },
+        {
+            "id": 1553132680,
+            "term": "I drank a beer",
+            "definition": "T\u00f4i u\u1ed1ng m\u1ed9t ly bia",
+            "image": null,
+            "rank": 292
+        },
+        {
+            "id": 1553132681,
+            "term": "drank wine",
+            "definition": "u\u1ed1ng r\u01b0\u1ee3u",
+            "image": null,
+            "rank": 293
+        },
+        {
+            "id": 1553132682,
+            "term": "'ve been drinking water",
+            "definition": "\u0110\u00e3 \u0111\u01b0\u1ee3c n\u01b0\u1edbc u\u1ed1ng",
+            "image": null,
+            "rank": 294
+        },
+        {
+            "id": 1553132683,
+            "term": "I do not eat beef",
+            "definition": "T\u00f4i kh\u00f4ng \u0103n th\u1ecbt b\u00f2",
+            "image": null,
+            "rank": 295
+        },
+        {
+            "id": 1553132684,
+            "term": "he has not eaten any vegetables",
+            "definition": "\u00f4ng \u0111\u00e3 kh\u00f4ng \u0103n b\u1ea5t k\u1ef3 lo\u1ea1i rau",
+            "image": null,
+            "rank": 296
+        },
+        {
+            "id": 1553132685,
+            "term": "was happy?",
+            "definition": "l\u00e0 h\u1ea1nh ph\u00fac kh\u00f4ng?",
+            "image": null,
+            "rank": 297
+        },
+        {
+            "id": 1553132686,
+            "term": "he was hungry?",
+            "definition": "anh c\u00f3 \u0111\u00f3i kh\u00f4ng?",
+            "image": null,
+            "rank": 298
+        },
+        {
+            "id": 1553132687,
+            "term": "I was not happy",
+            "definition": "T\u00f4i kh\u00f4ng h\u00e0i l\u00f2ng",
+            "image": null,
+            "rank": 299
+        },
+        {
+            "id": 1553132688,
+            "term": "he was not cold",
+            "definition": "\u00f4ng kh\u00f4ng l\u1ea1nh",
+            "image": null,
+            "rank": 300
+        },
+        {
+            "id": 1553132689,
+            "term": "was not hungry",
+            "definition": "kh\u00f4ng \u0111\u00f3i",
+            "image": null,
+            "rank": 301
+        },
+        {
+            "id": 1553132690,
+            "term": "you were not angry",
+            "definition": "b\u1ea1n kh\u00f4ng t\u1ee9c gi\u1eadn",
+            "image": null,
+            "rank": 302
+        },
+        {
+            "id": 1553132691,
+            "term": "blame",
+            "definition": "\u0111\u1ed5 l\u1ed7i",
+            "image": null,
+            "rank": 303
+        },
+        {
+            "id": 1553132692,
+            "term": "it was not my fault",
+            "definition": "n\u00f3 kh\u00f4ng ph\u1ea3i l\u00e0 l\u1ed7i c\u1ee7a t\u00f4i",
+            "image": null,
+            "rank": 304
+        },
+        {
+            "id": 1553132693,
+            "term": "I'll start",
+            "definition": "T\u00f4i s\u1ebd b\u1eaft \u0111\u1ea7u",
+            "image": null,
+            "rank": 305
+        },
+        {
+            "id": 1553132694,
+            "term": "I started to learn Italian last week",
+            "definition": "T\u00f4i b\u1eaft \u0111\u1ea7u h\u1ecdc ti\u1ebfng \u00dd tu\u1ea7n tr\u01b0\u1edbc",
+            "image": null,
+            "rank": 306
+        },
+        {
+            "id": 1553132695,
+            "term": "I'm learning Italian for a month",
+            "definition": "T\u00f4i \u0111ang h\u1ecdc ti\u1ebfng \u00dd trong m\u1ed9t th\u00e1ng",
+            "image": null,
+            "rank": 307
+        },
+        {
+            "id": 1553132696,
+            "term": "I went to America two months ago",
+            "definition": "T\u00f4i \u0111\u00e3 \u0111\u1ebfn M\u1ef9 c\u00e1ch \u0111\u00e2y hai th\u00e1ng",
+            "image": null,
+            "rank": 308
+        },
+        {
+            "id": 1553132697,
+            "term": "I came to Italy six weeks ago",
+            "definition": "T\u00f4i \u0111\u1ebfn \u00dd s\u00e1u tu\u1ea7n tr\u01b0\u1edbc",
+            "image": null,
+            "rank": 309
+        },
+        {
+            "id": 1553132698,
+            "term": "funny",
+            "definition": "bu\u1ed3n c\u01b0\u1eddi",
+            "image": null,
+            "rank": 310
+        },
+        {
+            "id": 1553132699,
+            "term": "fun",
+            "definition": "vui v\u1ebb",
+            "image": null,
+            "rank": 311
+        },
+        {
+            "id": 1553132700,
+            "term": "I had fun with you",
+            "definition": "T\u00f4i \u0111\u00e3 r\u1ea5t vui v\u1ebb v\u1edbi b\u1ea1n",
+            "image": null,
+            "rank": 312
+        },
+        {
+            "id": 1553132701,
+            "term": "I enjoyed it in America",
+            "definition": "T\u00f4i r\u1ea5t th\u00edch n\u00f3 \u1edf M\u1ef9",
+            "image": null,
+            "rank": 313
+        },
+        {
+            "id": 1553132702,
+            "term": "I had fun last night",
+            "definition": "T\u00f4i \u0111\u00e3 r\u1ea5t vui v\u1ebb \u0111\u00eam qua",
+            "image": null,
+            "rank": 314
+        },
+        {
+            "id": 1553132703,
+            "term": "I said that I would come today",
+            "definition": "T\u00f4i n\u00f3i r\u1eb1ng t\u00f4i s\u1ebd \u0111\u1ebfn h\u00f4m nay",
+            "image": null,
+            "rank": 315
+        }
+    ]
+}
